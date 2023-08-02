@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0c061c4d.css",
+    "main.js": "/static/js/main.95b52ce8.js",
+    "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
+    "static/media/dot.jpg": "/static/media/dot.18ab9378a33acc9a0a0a.jpg",
+    "static/media/Poppins-Light.ttf": "/static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
+    "static/media/Poppins-Regular.ttf": "/static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
+    "static/media/Poppins-Bold.ttf": "/static/media/Poppins-Bold.404e299be26d78e66794.ttf",
+    "static/media/profile_image.jpg": "/static/media/profile_image.e931eba801de7f8e958b.jpg",
+    "static/media/asdsd.jpg": "/static/media/asdsd.09839ba8d405f596b35b.jpg",
+    "static/media/data-science.png": "/static/media/data-science.4343ab2a901b51933dfd.png",
+    "static/media/rocket.png": "/static/media/rocket.6c536cd784f91cfde919.png",
+    "static/media/paint-roller.png": "/static/media/paint-roller.98acb44c386dbd727a22.png",
+    "index.html": "/index.html",
+    "main.0c061c4d.css.map": "/static/css/main.0c061c4d.css.map",
+    "main.95b52ce8.js.map": "/static/js/main.95b52ce8.js.map",
+    "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c061c4d.css",
+    "static/js/main.95b52ce8.js"
+  ]
+}
